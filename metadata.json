@@ -1,0 +1,6 @@
+{
+  "name": "Cat Care Dashboard",
+  "description": "A highly aesthetic, modern, and premium single-page dashboard with weight tracking, appearance log, and daily care schedule for cats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
